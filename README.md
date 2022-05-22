@@ -1,4 +1,4 @@
-### Welcome to my GiitHub
+### Welcome to my GitHub
 
 <!--
 **RainbowWZRD/RainbowWZRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
